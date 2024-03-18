@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQFqjoliSLJRkg/article-cover_image-shrink_600_2000/0/1677522350328?e=2147483647&v=beta&t=cXiUpI2uNXBi4Wped1tMWjk-fJx8U2Gu5opp5PXUuzU
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204224108/Take-Advantages-of-Git-and-GitHub-to-Stay-Motivated-Consistent-While-Coding.png
 )]
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
