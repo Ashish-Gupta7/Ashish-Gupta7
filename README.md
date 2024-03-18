@@ -2,7 +2,7 @@
 )]
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" align="right" alt="Coding" width="400">
+<img src=["https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" align="right" alt="Coding" width="400"](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png"]>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-gupta7&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-gupta7" /> </p>
 
