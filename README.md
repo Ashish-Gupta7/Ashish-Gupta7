@@ -1,5 +1,5 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204224108/Take-Advantages-of-Git-and-GitHub-to-Stay-Motivated-Consistent-While-Coding.png
-)]
+<!-- [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204224108/Take-Advantages-of-Git-and-GitHub-to-Stay-Motivated-Consistent-While-Coding.png
+)] -->
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <!-- <img src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png"> -->
