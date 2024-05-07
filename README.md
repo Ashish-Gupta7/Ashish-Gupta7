@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I think i am funny.**
 
 ## 🌐 Connect with me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashishkumargupta7/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](ash300mr@gmail.com) ![twitter](https://img.shields.io/badge/Follow_me-black?style=for-the-badge&logo=x&logoColor=%23fff&link=https%3A%2F%2Ftwitter.com%2FAshishMayaGupta) ![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&labelColor=%23000&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fiamashishgupta7%2F)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumargupta7/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](ash300mr@gmail.com) ![twitter](https://img.shields.io/badge/Follow_me-black?style=for-the-badge&logo=x&logoColor=%23fff&link=https%3A%2F%2Ftwitter.com%2FAshishMayaGupta) ![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&labelColor=%23000&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fiamashishgupta7%2F)
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muntahaportfolio.netlify.app/) -->
 
 ## 💻 Languages & Tools:
