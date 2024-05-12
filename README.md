@@ -17,13 +17,13 @@ I love to learning new things since I got acquainted with programming.
         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ashish-Gupta7'/>
     </a>
     <img src='https://visitor-badge.imlete.cn/?id=github.Ashish-Gupta7&style=for-the-badge&logo=Github&color=16a085'>
-    <a href='https://github.com/Ashish-Gupta7?tab=followers'>
+    <!-- <a href='https://github.com/Ashish-Gupta7?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/Ashish-Gupta7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
-    </a>
-   <a href='#'>
+    </a> -->
+   <!-- <a href='#'>
         <img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white'/>
         <br>
-    </a>
+    </a> -->
 </p>
 
 ## 🌐 Connect with me:
