@@ -37,7 +37,7 @@ I love to learning new things since I got acquainted with programming.
 
 <br>
 
-## 📊 GitHub Stats:
+## 📊 Coding Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gupta7&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
