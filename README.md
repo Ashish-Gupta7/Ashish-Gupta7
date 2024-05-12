@@ -44,7 +44,7 @@ I love to learning new things since I got acquainted with programming.
 
 <p>
     <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashish-Gupta7&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='407'/>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Gupta7&theme=transparent' width='430'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Gupta7&theme=transparent' width='428'>
 </p>
 
 <br>
