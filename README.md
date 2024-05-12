@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Back+End+Developer;Code+For+Everyone'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Enthusiastic+Programmer;Front+End+Developer;Back+End+Developer'/>
 </div>
 
 ### Ashish Gupta !
@@ -41,6 +41,7 @@ I love to learning new things since I got acquainted with programming.
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gupta7&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
+
 <p>
     <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashish-Gupta7&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='407'/>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Gupta7&theme=transparent' width='430'>
