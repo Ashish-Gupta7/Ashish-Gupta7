@@ -7,7 +7,7 @@
 I'm an enthusiastic programmer, I'm passionate about coding to make modern websites.</br>
 I love to learning new things since I got acquainted with programming.
 
-- 🌱 Learing **Front-End-Development** & **Back-End-Development**
+- 🌱 Learing **ReactJs**
 - 💻 Writing **Readable** & **Reusable** code are my first priorities.
 
 <br>
