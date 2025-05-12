@@ -29,7 +29,8 @@ I love to learning new things since I got acquainted with programming.
 <!-- [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](ash300mr@gmail.com)  -->
 
 ## 🌐 Connect with me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumargupta7/) [![twitter](https://img.shields.io/badge/Follow_me-black?style=for-the-badge&logo=x&logoColor=%23fff&link=https%3A%2F%2Ftwitter.com%2FAshishMayaGupta)](https://twitter.com/AshishMayaGupta) [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&labelColor=%23000&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fiamashishgupta7%2F)](https://www.instagram.com/iamashishgupta7/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumargupta7/) [![twitter](https://img.shields.io/badge/Follow_me-black?style=for-the-badge&logo=x&logoColor=%23fff&link=https%3A%2F%2Ftwitter.com%2FAshishMayaGupta)](https://twitter.com/AshishMayaGupta) [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&labelColor=%23000&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fiamashishgupta7%2F)](https://www.instagram.com/iamashishgupta7/)[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-1ugs.onrender.com/)
+
 
 <br>
 <!-- <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=Ashish-Gupta7&theme=radical" /></a> </p> -->
